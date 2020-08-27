@@ -1,10 +1,10 @@
-## Hi i'm lamiaa 👋 full stack dev to be. from Egypt.
+# Hi i'm lamiaa 👋 full stack dev to be. from Egypt.
 ### WELCOME TO MY PROFILE 👋👋
 
 ![](https://i.imgur.com/vgmMgqE.jpg)
 
 <p>
-  <a href="mailto:hazem.gharib.8@gmail.com?subject=[GitHub]%20Let's Chat&body=Hi Hazem%2C%0A%0AI wanted to ask you about ...">
+  <a href="mailto:lamiaghaib98@gmail.com?subject=[GitHub]%20Let's Chat&body=Hi lamiaa%2C%0A%0AI wanted to ask you about ...">
     <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
   <img src="https://img.shields.io/badge/Front End-Vue.js-42b883"/>
   <img src="https://img.shields.io/badge/OS-Ubuntu-dd4814"/>
@@ -27,7 +27,7 @@
 
 ### Languages and Tools:
  
-<img align="left" alt="HTML5" width="8%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img align="left" alt="HTML5" width="8%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img align="left" alt="CSS3" width="8%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img align="left" alt="Sass" width="8%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
 <code><img align="left" alt="JavaScript" width="8%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
